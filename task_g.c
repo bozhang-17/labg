@@ -33,7 +33,7 @@ int main(void) {
     }
 
     // Print the result to two decimal places
-    printf("%.2f\n", max_less_than_10);
+    printf("%.2f", max_less_than_10);
 
     return 0;
 }
